@@ -2,7 +2,7 @@
 
 # Learn Python (Work in Progress)🐍
 
-|# Day | Topics                                                    |
+| # | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Data Types](./1_data_types.ipynb) |
 | 02  |  [Variables](./2_variables.ipynb) |
