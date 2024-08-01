@@ -1,6 +1,5 @@
-# Learn Python (Work in Progress)🐍
-
 <div align="center">
+# Learn Python (Work in Progress)🐍
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
