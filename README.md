@@ -1,5 +1,7 @@
 # Learn Python (Work in Progress)🐍
 
+<div align="center">
+
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Data Types](./1_data_types.ipynb) |
@@ -15,3 +17,5 @@
 | 11  |  [List Comprehension and Lambda](./11_list_comprehension_lambda.ipynb) |
 | 12  |  [Higher Order Functions](./12_higher_order_functions.ipynb) |
 | 13  |  [Classes and Objects](./13_classes_objects.ipynb) |
+
+</div>
