@@ -4,18 +4,18 @@
 
 | # | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 01  |  [Data Types](./01_data_types.ipynb) |
-| 02  |  [Variables](./02_variables.ipynb) |
-| 03  |  [Operators](./03_operators.ipynb) |
-| 04  |  [Strings](./04_strings.ipynb) |
-| 05  |  [Lists](./05_lists.ipynb) |
-| 06  |  [Tuples](./06_tuples.ipynb) |
-| 07  |  [Sets](./07_sets.ipynb) |
-| 08  |  [Dictionaries](./08_dictionaries.ipynb) |
-| 09  |  [Conditionals + Loops](./09_condtionals_loops.ipynb) |
-| 10  |  [Functions](./10_functions.ipynb) |
-| 11  |  [List Comprehension and Lambda](./11_list_comprehension_lambda.ipynb) |
-| 12  |  [Higher Order Functions](./12_higher_order_functions.ipynb) |
-| 13  |  [Classes and Objects](./13_classes_objects.ipynb) |
+| 01  |  [Data Types](./01_data_types/01_data_types.md) |
+| 02  |  [Variables](./02_variables/02_variables.md) |
+| 03  |  [Operators](./03_operators/03_operators.md) |
+| 04  |  [Strings](./04_strings/04_strings.md) |
+| 05  |  [Lists](./05_lists/05_lists.md) |
+| 06  |  [Tuples](./06_tuples/06_tuples.md) |
+| 07  |  [Sets](./07_sets/07_sets.md) |
+| 08  |  [Dictionaries](./08_dictionaries/08_dictionaries.md) |
+| 09  |  [Conditionals + Loops](./09_conditional_loops/09_condtionals_loops.md) |
+| 10  |  [Functions](./10_functions/10_functions.md) |
+| 11  |  [List Comprehension and Lambda](./11_list_comprehension_lambda/11_list_comprehension_lambda.md) |
+| 12  |  [Higher Order Functions](./12_higher_order_functions/12_higher_order_functions.md) |
+| 13  |  [Classes and Objects](./13_classes_objects/13_classes_objects.md) |
 
 </center>
