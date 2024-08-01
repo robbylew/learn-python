@@ -1,4 +1,4 @@
-<div align="center">
+<center>
 # Learn Python (Work in Progress)🐍
 
 |# Day | Topics                                                    |
@@ -17,4 +17,4 @@
 | 12  |  [Higher Order Functions](./12_higher_order_functions.ipynb) |
 | 13  |  [Classes and Objects](./13_classes_objects.ipynb) |
 
-</div>
+</center>
