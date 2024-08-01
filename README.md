@@ -1,4 +1,5 @@
 <center>
+
 # Learn Python (Work in Progress)🐍
 
 |# Day | Topics                                                    |
