@@ -1,6 +1,6 @@
 <center>
 
-# Learn Python (Work in Progress)🐍
+# Python by Topic (Work in Progress)🐍
 
 | # | Topics                                                    |
 |------|:---------------------------------------------------------:|
