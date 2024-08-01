@@ -4,15 +4,15 @@
 
 | # | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 01  |  [Data Types](./1_data_types.ipynb) |
-| 02  |  [Variables](./2_variables.ipynb) |
-| 03  |  [Operators](./3_operators.ipynb) |
-| 04  |  [Strings](./4_strings.ipynb) |
-| 05  |  [Lists](./5_lists.ipynb) |
-| 06  |  [Tuples](./6_tuples.ipynb) |
-| 07  |  [Sets](./7_sets.ipynb) |
-| 08  |  [Dictionaries](./8_dictionaries.ipynb) |
-| 09  |  [Conditionals + Loops](./9_condtionals_loops.ipynb) |
+| 01  |  [Data Types](./01_data_types.ipynb) |
+| 02  |  [Variables](./02_variables.ipynb) |
+| 03  |  [Operators](./03_operators.ipynb) |
+| 04  |  [Strings](./04_strings.ipynb) |
+| 05  |  [Lists](./05_lists.ipynb) |
+| 06  |  [Tuples](./06_tuples.ipynb) |
+| 07  |  [Sets](./07_sets.ipynb) |
+| 08  |  [Dictionaries](./08_dictionaries.ipynb) |
+| 09  |  [Conditionals + Loops](./09_condtionals_loops.ipynb) |
 | 10  |  [Functions](./10_functions.ipynb) |
 | 11  |  [List Comprehension and Lambda](./11_list_comprehension_lambda.ipynb) |
 | 12  |  [Higher Order Functions](./12_higher_order_functions.ipynb) |
