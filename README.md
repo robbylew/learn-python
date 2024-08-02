@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Python by Topic - Introduction</h1>
+  <h1> Python by Topic - Work in Progress - Introduction</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/robbylew/">
     <img src="https://img.shields.io/badge/LinkedIn-robbylew-blue?style=flat-square&logo=linkedin">
   </a>
@@ -19,8 +19,6 @@
 <small> First Edition: August, 2024</small>
 </sub>
 </div>
-
-# Python by Topic (Work in Progress)🐍
 
 | # | Topics                                                    |
 |------|:---------------------------------------------------------:|
