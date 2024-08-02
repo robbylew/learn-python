@@ -18,8 +18,6 @@
 <a href="https://www.linkedin.com/in/robbylew/" target="_blank">Robert Lewis</a><br>
 <small> First Edition: August, 2024</small>
 </sub>
-<br>
-[Python Basics >>](./01_python_basics/01_python_basics.md)
 </div>
 
 # Python by Topic (Work in Progress)🐍
