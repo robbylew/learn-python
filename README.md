@@ -91,8 +91,7 @@ This repository is organized into individual topics, each focusing on a specific
 1. Browse the topics list in the repository.
 2. Choose a topic that interests you or aligns with your learning goals.
 3. Read through the material and try out the code examples.
-4. Complete the exercises to reinforce your learning.
-5. If you have questions or want to discuss a topic, feel free to open an issue or contribute to existing discussions.
+4. If you have questions or want to discuss a topic, feel free to open an issue or contribute to existing discussions.
 
 # Contributing
 
