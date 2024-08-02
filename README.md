@@ -84,7 +84,6 @@ This repository is organized into individual topics, each focusing on a specific
 
 + Detailed explanations
 + Code examples
-+ Practical exercises
 
 # How to Use This Repository
 
