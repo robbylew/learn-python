@@ -1,10 +1,31 @@
-<center>
+<div align="center">
+  <h1> Python by Topic - Introduction</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/robbylew/">
+    <img src="https://img.shields.io/badge/LinkedIn-robbylew-blue?style=flat-square&logo=linkedin">
+  </a>
+
+  <a class="header-badge" target="_blank" href="https://twitter.com/roberthedev">
+    <img src="https://img.shields.io/badge/Twitter-roberthedev-blue?style=flat-square&logo=X">
+  </a>
+
+<a class="header-badge" target="_blank" href="https://robertlewis.dev">
+  <img src="https://img.shields.io/badge/Website-robertlewis.dev-blue?style=flat-square&logo=github">
+</a>
+
+
+
+<sub>Author:
+<a href="https://www.linkedin.com/in/robbylew/" target="_blank">Robert Lewis</a><br>
+<small> First Edition: August, 2024</small>
+</sub>
+[Python Basics >>](./01_python_basics/01_python_basics.md)
+</div>
 
 # Python by Topic (Work in Progress)🐍
 
 | # | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 01  |  [Data Types](./01_data_types/01_data_types.md) |
+| 01  |  [Data Types](./01_python_basics/01_python_basics.md) |
 | 02  |  [Variables](./02_variables/02_variables.md) |
 | 03  |  [Operators](./03_operators/03_operators.md) |
 | 04  |  [Strings](./04_strings/04_strings.md) |
