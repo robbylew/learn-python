@@ -18,6 +18,7 @@
 <a href="https://www.linkedin.com/in/robbylew/" target="_blank">Robert Lewis</a><br>
 <small> First Edition: August, 2024</small>
 </sub>
+<br>
 [Python Basics >>](./01_python_basics/01_python_basics.md)
 </div>
 
@@ -104,3 +105,6 @@ We welcome contributions! If you have suggestions for new topics, improvements t
 This repository is actively maintained and growing. Star and watch the repository to stay updated on new topics and improvements.
 
 Happy coding, and enjoy your journey through Python by Topic!
+
+[Next >>](./01_python_basics/01_python_basics.md)
+
