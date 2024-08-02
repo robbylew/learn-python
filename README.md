@@ -20,6 +20,8 @@
 </sub>
 </div>
 
+<div align="center">
+
 | # | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Data Types](./01_python_basics/01_python_basics.md) |
@@ -36,7 +38,7 @@
 | 12  |  [Higher Order Functions](./12_higher_order_functions/12_higher_order_functions.md) |
 | 13  |  [Classes and Objects](./13_classes_objects/13_classes_objects.md) |
 
-
+</div>
 
 # Table of Contents
 
