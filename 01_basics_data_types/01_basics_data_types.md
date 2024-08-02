@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Python by Topic - Data Types</h1>
+  <h1> Python by Topic - Python Basics & Data Types</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/robbylew/">
     <img src="https://img.shields.io/badge/LinkedIn-robbylew-blue?style=flat-square&logo=linkedin">
   </a>
@@ -23,6 +23,14 @@
 
 # Table of Contents
 
+- [Basic Python](#basic-python)
+
+  - [Python Syntax](#python-syntax)
+
+  - [Python Indentation](#python-indentation)
+
+  - [Comments](#comments)
+
 - [Data Types](#data-types)
 
   - [Integer](#integer-or-int)
@@ -42,6 +50,40 @@
   - [Set](#set)
 
 - [Checking Data Types](#checking-data-types)
+
+# Basic Python
+
+## Python Syntax
+
+A Python script can be written in Python interactive shell or in the code editor. A Python file has an extension .py.
+
+## Python Indentation
+
+An indentation is a white space in a text. Indentation in many languages is used to increase code readability, however Python uses indentation to create block of codes. In other programming languages curly brackets are used to create blocks of codes instead of indentation. One of the common bugs when writing python code is wrong indentation.
+
+## Comments
+
+Comments are very important to make the code more readable and to leave remarks in our code. Python does not run comment parts of our code.
+Any text starting with hash(#) in Python is a comment.
+
+**Example: Single Line Comment**
+
+```shell
+    # This is the first comment
+    # This is the second comment
+    # Python is eating the world
+```
+
+**Example: Multiline Comment**
+
+Triple quote can be used for multiline comment if it is not assigned to a variable
+
+```shell
+"""This is multiline comment
+multiline comment takes multiple lines.
+python is eating the world
+"""
+```
 
 # Data Types
 
